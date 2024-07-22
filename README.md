@@ -1,4 +1,9 @@
 # Unity-Eternal-Vampire
+
+Üniversite yıllarımızda kendimizi geliştirmek ve sevdiğimiz işi yapmak için çıktığımız bu yolda, üç arkadaş olarak birlikte geliştirdiğimiz oyunumuzu sunmaktan gurur duyuyoruz. Oyunumuzu daha detaylı incelemek için linke gidebilirsiniz.
+
+![steam_afis](https://github.com/user-attachments/assets/cbff2f42-c1ef-4d16-8bb5-03b6d66b1b27)
+
 Bu 2D aksiyon oyununda, tablolara sıkışmış bir vampiri kontrol ediyorsunuz. Karakteriniz, düşmanları yenerek deneyim kazanıp seviyesini yükseltirken yeni kılıçlar ve büyüler elde eder. Rastgele oluşturulmuş zindanlarda keşif yaparak, güçlü düşmanlarla savaşır ve ışınlanma noktalarını kullanarak yeni düşman ve bölgeler ulaşır. Sürükleyici bir hikaye ve mükemmel bir oynanış sizi bekliyor.
 
 📌 GÜCÜNÜZÜ ARTIRIN
